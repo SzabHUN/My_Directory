@@ -1,0 +1,7 @@
+C:\Users\SzabHUN\source\repos\N_Szab Beadando munka\N_Szab Beadando munka\bin\Debug\N_Szab Beadando munka.exe.config
+C:\Users\SzabHUN\source\repos\N_Szab Beadando munka\N_Szab Beadando munka\bin\Debug\N_Szab Beadando munka.exe
+C:\Users\SzabHUN\source\repos\N_Szab Beadando munka\N_Szab Beadando munka\bin\Debug\N_Szab Beadando munka.pdb
+C:\Users\SzabHUN\source\repos\N_Szab Beadando munka\N_Szab Beadando munka\obj\Debug\N_Szab Beadando munka.csprojAssemblyReference.cache
+C:\Users\SzabHUN\source\repos\N_Szab Beadando munka\N_Szab Beadando munka\obj\Debug\N_Szab Beadando munka.csproj.CoreCompileInputs.cache
+C:\Users\SzabHUN\source\repos\N_Szab Beadando munka\N_Szab Beadando munka\obj\Debug\N_Szab Beadando munka.exe
+C:\Users\SzabHUN\source\repos\N_Szab Beadando munka\N_Szab Beadando munka\obj\Debug\N_Szab Beadando munka.pdb
